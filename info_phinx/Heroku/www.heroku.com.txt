@@ -1,0 +1,13 @@
+Explicação da instalação do heroku.
+
+https://devcenter.heroku.com/articles/heroku-cli
+
+
+para acessar os projetos:
+
+https://dashboard.heroku.com/apps
+
+
+para configurar o arquivo procfile:
+
+web: vendor/bin/heroku-php-apache2 public/
